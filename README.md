@@ -52,3 +52,7 @@ index.tsx # Default route ("All Cards" tab)
 review.tsx # Secondary tab ("Review List" tab)
 details/
 [id].tsx # Dynamic route that loads a specific flashcard using its unique ID
+
+# Demonstration Video link
+
+--> " https://drive.google.com/file/d/1pDicxRK66OzDWiAq0Y0qtwgh6cdIFw5O/view?usp=sharing "
