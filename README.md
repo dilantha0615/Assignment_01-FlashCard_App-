@@ -1,3 +1,7 @@
+# Name: K A D SANDARUWAN
+
+# Student ID: PE/2022/014
+
 # Flashcard App
 
 ## Overview & Problem Statement
